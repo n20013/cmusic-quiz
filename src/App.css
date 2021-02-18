@@ -1,5 +1,21 @@
-.App {
+h1, p {
   text-align: center;
+}
+
+body {
+  background-color: #000100;
+}
+
+.center {
+  background-color: #fff;
+  padding: 20px 80px;
+  margin: 39px 20%;
+  height: 100vh;
+}
+
+.mui {
+  text-align: center;
+  size: 60px;
 }
 
 .App-logo {
