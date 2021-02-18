@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/cmusic-quiz/static/css/main.cee524c1.chunk.css",
+    "main.js": "/cmusic-quiz/static/js/main.fed5cb21.chunk.js",
+    "main.js.map": "/cmusic-quiz/static/js/main.fed5cb21.chunk.js.map",
+    "runtime-main.js": "/cmusic-quiz/static/js/runtime-main.34998c79.js",
+    "runtime-main.js.map": "/cmusic-quiz/static/js/runtime-main.34998c79.js.map",
+    "static/js/2.75f0a29b.chunk.js": "/cmusic-quiz/static/js/2.75f0a29b.chunk.js",
+    "static/js/2.75f0a29b.chunk.js.map": "/cmusic-quiz/static/js/2.75f0a29b.chunk.js.map",
+    "static/js/3.f0aa560f.chunk.js": "/cmusic-quiz/static/js/3.f0aa560f.chunk.js",
+    "static/js/3.f0aa560f.chunk.js.map": "/cmusic-quiz/static/js/3.f0aa560f.chunk.js.map",
+    "index.html": "/cmusic-quiz/index.html",
+    "static/css/main.cee524c1.chunk.css.map": "/cmusic-quiz/static/css/main.cee524c1.chunk.css.map",
+    "static/js/2.75f0a29b.chunk.js.LICENSE.txt": "/cmusic-quiz/static/js/2.75f0a29b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.34998c79.js",
+    "static/js/2.75f0a29b.chunk.js",
+    "static/css/main.cee524c1.chunk.css",
+    "static/js/main.fed5cb21.chunk.js"
+  ]
+}
